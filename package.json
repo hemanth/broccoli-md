@@ -30,7 +30,7 @@
     "markdown": "^0.5.0"
   },
   "devDependencies": {
-    "mocha": "*",
+    "mocha": "2.4.5",
     "broccoli": "^1.0.0",
     "rimraf": "^2.2.8"
   }
